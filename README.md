@@ -28,8 +28,5 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 
 ## Help and more...
 Send `/help` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
-## Developers
-
- * [BugFather (Amir_h)](https://telegram.me/BugFather)
 
 ### Powered by [iTeam](https://telegram.me/iTeam_IR)
