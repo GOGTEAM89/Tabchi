@@ -31,6 +31,5 @@ Send `/help` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
 ## Developers
 
  * [BugFather (Amir_h)](https://telegram.me/BugFather)
- * [Base64 (Amin)](https://telegram.me/Base64)
 
 ### Powered by [iTeam](https://telegram.me/iTeam_IR)
