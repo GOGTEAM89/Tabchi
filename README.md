@@ -1,4 +1,6 @@
-#Tabchi
+# [TabChi](https://telegram.me/MemberPlus_tm)
+
+<p align="center"> ![http://member-adder.ir/img/member+.png](http://member-adder.ir/img/member+.png)
 
 TG-CLI based broadcasting bot!
 
@@ -95,7 +97,7 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 /addmembers
 اضافه کردن اعضای ربات به گروه
 
-/exportlinks
+/links
 دریافت لینک های ذخیره شده توسط ربات
 
 /contactlist
