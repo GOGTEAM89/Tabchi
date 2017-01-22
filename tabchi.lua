@@ -128,7 +128,7 @@ function process(msg)
     if msg.text:match("^[!/#]setanswer") and is_sudo(msg) and #matches == 3 then
       redis:hset("tabchi:" .. tabchi_id .. ":answers", matches[2], matches[3])
       redis:sadd("tabchi:" .. tabchi_id .. ":answerslist", matches[2])
-      return "Answer for " .. matches[2] .. " set to " .. matches[3]
+      return "cracked by @sajjad_021 - Answer for " .. matches[2] .. " set to " .. matches[3]
     end
   end
   do
@@ -185,7 +185,7 @@ function process(msg)
     }
     if msg.text:match("^[!/#]block") and is_sudo(msg) and #matches == 2 then
       tdcli.blockUser(tonumber(matches[2]))
-      return "User blocked"
+      return "User blocked  *open by @MemberPlus_TM*"
     end
   end
   do
@@ -217,7 +217,7 @@ function process(msg)
           }, dl_cb, nil)
         else
           local text = [[
-*Normal stats :*
+*Tabchi Moded by @sajjad_021 -- Normal stats :*
 Users : ]] .. pvs .. [[
 
 Groups : ]] .. gps .. [[
@@ -271,7 +271,7 @@ Saved links : ]] .. links
     if msg.text:match("^[!/#]addedmsg") and is_sudo(msg) and #matches == 2 then
       if matches[2] == "on" then
         redis:set("tabchi:" .. tabchi_id .. ":addedmsg", true)
-        return "Added Message Turned On"
+        return "Added Message Turned On *cracked by @sajjad_021*"
       elseif matches[2] == "off" then
         redis:del("tabchi:" .. tabchi_id .. ":addedmsg")
         return "Added Message Turned Off"
@@ -285,7 +285,7 @@ Saved links : ]] .. links
     if msg.text:match("^[!/#]markread") and is_sudo(msg) and #matches == 2 then
       if matches[2] == "on" then
         redis:set("tabchi:" .. tabchi_id .. ":markread", true)
-        return "Markread Turned On"
+        return "Markread Turned On *open by @MemberPlus_TM*"
       elseif matches[2] == "off" then
         redis:del("tabchi:" .. tabchi_id .. ":markread")
         return "Markread Turned Off"
