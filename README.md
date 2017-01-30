@@ -38,6 +38,17 @@ Enter your telegram Id in "Full Sudo ID" part
 
 Enjoy Your New Bot!
 
+You can stop the script by pressing Control+C in the script session. Alternatively, you can tmux kill-session -t script or also killing all tmux processes killall tmux
+
+```
+killall screen
+killall tmux
+```
+after run, you must send messege of your bot too be (@sajjad_021)](https://telegram.me/sajjad_021) for regester tour bot.
+if you are reported, you can send messege in the (@TgMessengerBot)](https://telegram.me/TgMessengerBot) and requst for activate your bot.
+
+***
+
 ##Run
    
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
