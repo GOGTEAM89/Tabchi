@@ -44,8 +44,8 @@ You can stop the script by pressing Control+C in the script session. Alternative
 killall screen
 killall tmux
 ```
-after run, you must send messege of your bot too be (@sajjad_021)](https://telegram.me/sajjad_021) for regester tour bot.
-if you are reported, you can send messege in the (@TgMessengerBot)](https://telegram.me/TgMessengerBot) and requst for activate your bot.
+after run, you must send messege of your bot too be [@sajjad_021](https://telegram.me/sajjad_021) for regester tour bot.
+if you are reported, you can send messege in the [@TgMessengerBot](https://telegram.me/TgMessengerBot) and requst for activate your bot.
 
 ***
 
