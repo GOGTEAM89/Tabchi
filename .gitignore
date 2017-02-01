@@ -1,5 +1,5 @@
 # Compiled Lua sources
-tabchi.lua
+luac.out
 
 # luarocks build files
 *.src.rock
@@ -38,4 +38,3 @@ tabchi.lua
 *.i*86
 *.x86_64
 *.hex
-
