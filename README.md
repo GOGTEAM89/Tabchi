@@ -120,10 +120,8 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 دریافت مخاطبان ذخیره شده توسط ربات
 
 
-##Developers
 
-*[open by (sajjad_021)](https://telegram.me/sajjad_021)
-*[channel (MemberPlus_TM)](https://telegram.me/MemberPlus_TM)
+*[open by (sajjad_021)](https://telegram.me/@Mohammad_hidden)
 
 ###Powered by [MemberPlus_TM](https://telegram.me/MemberPlus_TM)
 
