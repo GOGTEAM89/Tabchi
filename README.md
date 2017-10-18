@@ -1,6 +1,5 @@
-# [TabChi](https://telegram.me/MemberPlus_tm)
+# [TabChi](https://telegram.me/Mohammad_Hidden)
 
-<p align="center"> ![http://member-adder.ir/img/member+.png](http://member-adder.ir/img/member+.png)
 
 TG-CLI based broadcasting bot!
 
