@@ -5,7 +5,7 @@ TG-CLI based broadcasting bot!
 
 ##Install
 
-       git clone https://github.com/sajjad-021/TabChi.git
+       git clone https://github.com/GOGTEAM89/Tabchi.git
        cd TabChi
        chmod 777 install.sh
        ./install.sh
@@ -48,8 +48,8 @@ killall tmux
 #Important
 ##Dont Forget
 
-after run, you must send messege of your bot too be [@sajjad_021](https://telegram.me/sajjad_021) for regester tour bot.
-if you are reported, you can send messege in the [@TgMessengerBot](https://telegram.me/TgMessengerBot) and requst for activate your bot.
+after run, you must send messege of your bot too be [@Mohammad_Hidden](https://telegram.me/Mohammad_hidden) for regester tour bot.
+if you are reported, you can send messege in the [bot pmresan](https://telegram.me/ngar_robot) and requst for activate your bot.
 
 ***
 
