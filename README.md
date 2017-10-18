@@ -121,7 +121,7 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 
 
 
-*[open by (sajjad_021)](https://telegram.me/@Mohammad_hidden)
+*[open by (Mohammad_Hidden)](https://telegram.me/@Mohammad_hidden)
 
 ###Powered by [MemberPlus_TM](https://telegram.me/MemberPlus_TM)
 
